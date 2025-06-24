@@ -1,4 +1,4 @@
-# Software Project Risk Prediction
+# RiskMiner: Toward Explainable Risk Prediction Models for Software Project Management (VDT'25)
 This repository contains code for predicting software project risks using machine learning techniques.
 
 # Requirements
